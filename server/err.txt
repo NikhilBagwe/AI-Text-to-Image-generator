@@ -1,0 +1,7 @@
+OPENAI_API_KEY = "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"
+
+MONGODB_URL = "mongodb+srv://nikhil:1234@cluster0.pyhtxcw.mongodb.net/?retryWrites=true&w=majority"
+
+CLOUDINARY_CLOUD_NAME = "dxqy46co9"
+CLOUDINARY_API_KEY = "472823774278416"
+CLOUDINARY_API_SECRET = "-L8f0N1KGlWGcD17Q8H_TFBAaog"
